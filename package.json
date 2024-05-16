@@ -1,0 +1,16 @@
+{
+  "name": "mindmap-gpt",
+  "description": "A simple mindmap generator using GPT-4o and Mermaid.js",
+  "homepage": "https://github.com/akinazuki/mindmap-gpt",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "GPL-3.0-only",
+  "type": "module",
+  "scripts": {
+    "test": "tsx test.ts"
+  },
+  "dependencies": {
+    "@mermaid-js/mermaid-cli": "^10.9.0",
+    "typescript": "^5.4.5"
+  }
+}
